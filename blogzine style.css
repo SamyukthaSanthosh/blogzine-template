@@ -1,0 +1,499 @@
+.navbar {
+    display: flex;
+    justify-content: center;
+    border-bottom: 1px solid black;
+    background-color: blue;
+    color: white;
+}
+
+.grab {
+    margin-left: 10px;
+    border: 1px solid black;
+    padding: 5px;
+    background-color: black;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.pannel {
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid grey;
+    padding: 10px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.about {
+    margin-right: 10px;
+    cursor: pointer;
+}
+
+.forum {
+    margin-right: 10px;
+    cursor: pointer;
+}
+
+.buynow {
+    margin-right: 10px;
+    cursor: pointer;
+}
+
+.join {
+    cursor: pointer;
+}
+
+.blogzine {
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+    margin: 10px;
+}
+
+.btn {
+    cursor: pointer;
+}
+
+.blogzine span {
+    margin-top: 15px;
+    cursor: pointer;
+}
+
+.btn-subs {
+    border: 1px solid red;
+    padding: 5px;
+    background-color: red;
+    color: white;
+    cursor: pointer;
+    border-radius: 2px;
+}
+
+.trendingbox {
+    border: 1px solid lightblue;
+    background-color: lightblue;
+    padding: 10px;
+    border-radius: 2px;
+    margin: 10px;
+}
+
+.trendingbox span {
+    border: 1px solid blue;
+    padding: 5px;
+    background-color: blue;
+    border-radius: 4px;
+}
+
+.fourboxes {
+    display: flex;
+}
+
+.onebox {
+    border: 1px solid blue;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.twoboxes {
+    display: flex;
+}
+
+.technologybox {
+    border: 1px solid blue;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.businessbox {
+    border: 1px solid blue;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.sportsbox {
+    border: 1px solid blue;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.nov {
+    display: flex;
+}
+
+.min {
+    margin-left: 30px;
+}
+
+.louis {
+    display: flex;
+    cursor: pointer;
+}
+
+.onebox h2 {
+    cursor: pointer;
+}
+
+.lifestyle {
+    border: 1px solid red;
+    background-color: red;
+    width: 75px;
+    color: white;
+    cursor: pointer;
+}
+
+.tech {
+    border: 1px solid yellow;
+    width: 100px;
+    background-color: yellow;
+    color: white;
+    cursor: pointer;
+}
+
+.technologybox h4 {
+    cursor: pointer;
+}
+
+.bryan {
+    display: flex;
+    cursor: pointer;
+}
+
+.businessone {
+    border: 1px solid green;
+    color: white;
+    width: 100px;
+    background-color: green;
+    cursor: pointer;
+}
+
+.businnessbox h4 {
+    cursor: pointer;
+}
+
+.joan {
+    display: flex;
+    cursor: pointer;
+}
+
+.sportsone {
+    border: 1px solid blue;
+    color: white;
+    width: 100px;
+    background-color: blue;
+    cursor: pointer;
+}
+
+.sportsbox h4 {
+    cursor: pointer;
+}
+
+.amanda {
+    display: flex;
+    cursor: pointer;
+}
+
+.bothsides {
+    display: flex;
+}
+
+.firstset {
+    display: flex;
+}
+
+.downtechnology {
+    margin-right: 10px;
+}
+
+.travel {
+    margin-right: 10px;
+}
+
+.secondset {
+    display: flex;
+}
+
+.gadgets {
+    margin-right: 10px;
+}
+
+.downsports {
+    margin-right: 10px;
+}
+
+.thirdset {
+    display: flex;
+}
+
+.marketing {
+    margin-right: 10px;
+}
+
+.photography {
+    margin-right: 10px;
+}
+
+.samuel {
+    display: flex;
+}
+
+.dennis {
+    display: flex;
+}
+
+.bryan {
+    display: flex;
+}
+
+.billy {
+    display: flex;
+}
+
+.jacqueline {
+    display: flex;
+}
+
+.carolyn {
+    display: flex;
+}
+
+.techno {
+    border: 1px solid black;
+    height: 200px;
+    width: 85%;
+}
+
+.trip {
+    border: 1px solid black;
+    height: 200px;
+    width: 85%;
+}
+
+.phones {
+    border: 1px solid black;
+    height: 200px;
+    width: 85%;
+}
+
+.play {
+    border: 1px solid black;
+    height: 200px;
+    width: 85%;
+}
+
+.market {
+    border: 1px solid black;
+    height: 200px;
+    width: 85%;
+}
+
+.photo {
+    border: 1px solid black;
+    height: 200px;
+    width: 85%;
+}
+
+.load {
+    display: flex;
+    justify-content: center;
+    border: 1px solid black;
+    border-radius: 5px;
+    color: rgb(100, 100, 255);
+    cursor: pointer;
+    width: 100px;
+    padding: 5px;
+    position: relative;
+    left: 450px;
+}
+
+.icons {
+    display: flex;
+}
+
+.facebook {
+    border: 1px solid blue;
+    padding: 10px;
+    width: 50px;
+}
+
+.instagram {
+    border: 1px solid pink;
+    padding: 10px;
+    width: 50px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.youtube {
+    border: 1px solid red;
+    padding: 10px;
+    width: 50px;
+}
+
+.trendingtopic {
+    display: flex;
+    flex-direction: column;
+}
+
+.divisionone {
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+    cursor: pointer;
+}
+
+.divisiontwo {
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+.divisionthree {
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+.divisionfour {
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+.divisionfive {
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+.divisionsix {
+    text-align: center;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+.postone {
+    width: 150px;
+}
+
+.posttwo {
+    width: 150px;
+}
+
+.postthree {
+    width: 150px;
+}
+
+.postfour {
+    width: 150px;
+}
+
+.news {
+    display: flex;
+    justify-content: space-between;
+}
+
+.news span {
+    cursor: pointer;
+}
+
+.side {
+    display: flex;
+    justify-content: space-between;
+}
+
+.sideone {
+    border: 1px solid black;
+    border-radius: 5px;
+    height: 100px;
+    width: 250px;
+    padding: 10px;
+}
+
+.sidetwo {
+    border: 1px solid black;
+    border-radius: 5px;
+    height: 100px;
+    width: 250px;
+    padding: 10px;
+}
+
+.sidethree {
+    border: 1px solid black;
+    border-radius: 5px;
+    height: 100px;
+    width: 250px;
+    padding: 10px;
+}
+
+.sidefour {
+    border: 1px solid black;
+    border-radius: 5px;
+    height: 100px;
+    width: 250px;
+    padding: 10px;
+}
+
+.pagebottom {
+    margin-top: 20px;
+}
+
+.topside {
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid black;
+}
+
+.topside p {
+    width: 400px;
+}
+
+.topside span {
+    border: 1px solid blue;
+    border-radius: 5px;
+    height: 20px;
+    padding: 10px;
+    color: white;
+    background-color: blue;
+    cursor: pointer;
+}
+
+.updates {
+    display: flex;
+}
+
+.list {
+    border: 1px solid red;
+    color: white;
+    background-color: red;
+    width: 100px;
+    border-radius: 5px;
+}
+
+.larry {
+    border: 1px solid yellow;
+    color: white;
+    background-color: yellow;
+    width: 100px;
+    border-radius: 5px;
+}
+
+.post {
+    margin: 10px;
+}
+
+.startups {
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+}
